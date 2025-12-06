@@ -1,0 +1,11 @@
+{
+  "name": "weather-dashboard-frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
